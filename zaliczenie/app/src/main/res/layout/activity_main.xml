@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/przyciskJeden"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/przyciskpierwszy" />
+
+        <Button
+            android:id="@+id/przyciskDwa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/przyciskdrugi" />
+
+        <Button
+            android:id="@+id/przyciskTrzy"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/przycisktrzeci" />
+
+        <Button
+            android:id="@+id/przyciskCztery"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/przyciskczwarty" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

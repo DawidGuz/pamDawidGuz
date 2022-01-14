@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Zaliczenie</string>
+    <string name="przyciskpierwszy">Przycisk pierwszy</string>
+    <string name="przyciskdrugi">Przycisk drugi</string>
+    <string name="przycisktrzeci">Przycisk trzeci</string>
+    <string name="przyciskczwarty">Przycisk czwarty</string>
+
+    <string name="mojedane">Stworzyl to: Dawid Guz</string>
+
+    <string name="obliczEuro">Złoty na Euro</string>
+    <string name="obliczDolary">Złoty na Dolary</string>
+
+    <string name="TextViewWynik">Wynik</string>
+
+
+</resources>

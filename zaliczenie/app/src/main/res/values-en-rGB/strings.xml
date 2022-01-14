@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zaliczenie</string>
+    <string name="przyciskpierwszy">Button First</string>
+    <string name="przyciskdrugi">Button Second</string>
+    <string name="przycisktrzeci">Button Third</string>
+    <string name="przyciskczwarty">Button Fourt</string>
+    <string name="mojedane">Create this: Dawid Guz</string>
+    <string name="obliczEuro">Polish to Euro</string>
+    <string name="obliczDolary">Polish to Dollar</string>
+    <string name="TextViewWynik">Result</string>
+</resources>
